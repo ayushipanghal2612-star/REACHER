@@ -1,0 +1,12 @@
+google-genai
+google-auth
+google-cloud-storage
+google-cloud-firestore
+google-cloud-tasks
+python-dotenv
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+python-docx
+httpx
